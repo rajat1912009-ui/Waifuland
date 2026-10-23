@@ -1,6 +1,6 @@
 # Waifuland
+This repository contains generated coded, pls read before modifying.
 
-> **Disclaimer:** This repository is "vibe coded". Please use with caution.
 
 A Linux desktop Live2D model viewer that renders Live2D characters as transparent Wayland overlay windows using the `wlr-layer-shell` protocol.
 
