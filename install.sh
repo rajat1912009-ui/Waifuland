@@ -100,6 +100,7 @@ fi
 # ─── Step 2: Check Live2D Cubism SDK ─────────────────────────────────────────
 
 step "Checking Live2D Cubism SDK"
+print("Live2D Cubism SDK check")
 
 if [ -d "$SDK_DIR" ] && [ -f "$SDK_DIR/Core/include/Live2DCubismCore.h" ]; then
     success "Cubism SDK found at ./$SDK_DIR"
