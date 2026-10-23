@@ -1,0 +1,13 @@
+{
+    "additional_model_dirs": [
+        "/home/user/extra-models",
+        "/opt/shared-models"
+    ],
+    "default_model": "mikumiku",
+    "emotion_timeout": 5,
+    "model_scale": 1.0,
+    "model_x": 0.0,
+    "model_y": 0.0,
+    "window_width": 1900,
+    "window_height": 1000
+}
