@@ -1,7 +1,7 @@
 # Waifuland
 This repository contains generated coded, pls read before modifying.
 
-
+## THIS REPOSITORY IS A FORK ON WHICH I BUILT UPON
 A Linux desktop Live2D model viewer that renders Live2D characters as transparent Wayland overlay windows using the `wlr-layer-shell` protocol.
 
 Live2D models float on your desktop with click-through transparency — only the model itself receives input. Built with the Live2D Cubism SDK for Native, OpenGL (EGL), and native Wayland (no X11, no GLFW windowing).
